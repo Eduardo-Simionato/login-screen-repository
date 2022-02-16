@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background: #f2f2f7;
+}
+
+h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 41px;
+  color: #000000;
+  margin-top: 128px;
+  margin-left: 16px;
+  display: block;
+}
+
+#p1 {
+  color: #808080;
+  margin-top: 12px;
+  margin-left: 16px;
+  margin-right: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  display: block;
+}
+
+#email {
+  margin-top: 102px;
+  margin-left: 16px;
+  width: 343px;
+  height: 48px;
+  border-radius: 6px;
+  background: #e5e5e5;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  border: none;
+  display: block;
+}
+
+#password {
+  margin-top: 12px;
+  margin-left: 16px;
+  width: 343px;
+  height: 48px;
+  border-radius: 6px;
+  background: #e5e5e5;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  border: none;
+  display: block;
+}
+
+#forgot-password {
+  color: #007aff;
+  margin-top: 17px;
+  margin-left: 236px;
+  margin-right: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  display: block;
+}
+
+button {
+  color: #ffffff;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 22px;
+  margin-top: 20px;
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 48px;
+  width: 343px;
+  background-color: #000000;
+  border-radius: 10px;
+}
+
+#p2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #808080;
+  margin: 204px 75px 0px 75px;
+}
+
+#sing-up {
+    color: #007aff;
+}
